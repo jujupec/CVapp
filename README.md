@@ -179,9 +179,13 @@ cd (path)/CVapp
 npm install
 
 ### run the app on an Android emulator
+copy and past on your terminal:
+
 tns run android
 
 ### run the app on an iOS emulator (only for mac os)
+copy and past on your terminal:
+
 tns run ios
 
 
