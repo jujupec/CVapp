@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/julien/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/background.png",
+        "source": "/Users/julien/CVapp/platforms/android/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/Users/julien/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/ic_menu_white_24dp.png",
+        "source": "/Users/julien/CVapp/platforms/android/src/main/res/drawable-xhdpi/ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "/Users/julien/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/ic_menu_black.png",
+        "source": "/Users/julien/CVapp/platforms/android/src/main/res/drawable-xhdpi/ic_menu_black.png"
+    },
+    {
+        "merged": "/Users/julien/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/logo.png",
+        "source": "/Users/julien/CVapp/platforms/android/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/logo.png",
+        "source": "/Users/julien/Desktop/CVapp/platforms/android/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/ic_menu_black.png",
+        "source": "/Users/julien/Desktop/CVapp/platforms/android/src/main/res/drawable-xhdpi/ic_menu_black.png"
+    },
+    {
+        "merged": "/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/ic_menu_white_24dp.png",
+        "source": "/Users/julien/Desktop/CVapp/platforms/android/src/main/res/drawable-xhdpi/ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "/Users/julien/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/julien/CVapp/platforms/android/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/julien/Desktop/CVapp/platforms/android/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/background.png",
+        "source": "/Users/julien/Desktop/CVapp/platforms/android/src/main/res/drawable-xhdpi/background.png"
+    }
+]

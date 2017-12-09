@@ -1,0 +1,13 @@
+<ActionBar class="titre" title="Compétences">
+</ActionBar>
+
+<side-drawer-page>
+        <GridLayout  class="h2" columns="*,*,*" rows="auto">
+                <Label text="langage" class="text-center" style="margin: 5;"></Label>
+                <Label text="utilisation" colSpan="2" class="text-center" col="1" style=" margin: 5;"></Label>
+        </GridLayout>
+        <GridLayout class="h4" *ngFor="let c of competences" columns="*,*,*" rows="auto">
+            <label [text]="c.langage"  style="background-color: #0099CC; margin: 5; padding:5; " textWrap="true"></label>
+            <Label [text]="c.utilisation" colSpan="2" col="1" style="background-color: #FFFF66; margin: 5; padding:5; " textWrap="true"></Label>
+        </GridLayout>
+</side-drawer-page>

@@ -1,0 +1,15 @@
+<ActionBar class="titre" title="Contact">
+</ActionBar>
+
+<side-drawer-page>
+  <StackLayout class="contact-page p-30">
+      <Label *ngFor="let c of contact"
+          class="h4 page-text"
+          textWrap="true">
+          <FormattedString>
+                <Span [text]="c.name+' : '" fontWeight="Bold"></Span>
+                <Span [text]="c.value"></Span>
+            </FormattedString>
+      </Label>
+  </StackLayout>
+</side-drawer-page>

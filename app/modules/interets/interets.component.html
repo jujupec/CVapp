@@ -1,0 +1,11 @@
+<ActionBar class="titre" title="Centre d'intérets">
+</ActionBar>
+
+<side-drawer-page>
+        <GridLayout columns="*,*" rows="auto,auto">
+                <Label text="Séjours récents à l'étranger" class="text-center h2" style="margin: 5; " textWrap="true"></Label>
+                <Label text="Activités" class="text-center h2" col="1" style=" margin: 5;"></Label>
+                <label row="1" [text]="interets.sejour"  style="background-color: #0099CC; margin: 5; padding:5; " textWrap="true"></label>
+                <Label row="1" [text]="interets.activite" col="1" style="background-color: #FFFF66; margin: 5; padding:5; " textWrap="true"></Label>
+        </GridLayout>
+</side-drawer-page>

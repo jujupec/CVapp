@@ -1,0 +1,15 @@
+<ActionBar class="titre" title="Formation">
+</ActionBar>
+
+<side-drawer-page> 
+        <GridLayout  class="h2" columns="*,*,*,*,*" rows="auto">
+                <Label text="date" class="text-center" style="margin: 5;"></Label>
+                <Label text="ecole" colSpan="2" class="text-center" col="1" style=" margin: 5;"></Label>
+                <Label text="diplome" colSpan="2" class="text-center" col="3" style="margin: 5;"></Label>
+        </GridLayout>
+        <GridLayout class="h4" *ngFor="let f of formation" columns="*,*,*,*,*" rows="auto">
+            <label [text]="f.date"  style="background-color: #0099CC; margin: 5; padding:5; " textWrap="true"></label>
+            <Label [text]="f.ecole" col="1" colSpan="2" style="background-color: #FFFF66; margin: 5; padding:5; " textWrap="true"></Label>
+            <Label [text]="f.diplome" col="3" colSpan="2" style="background-color: #AA0078; margin: 5; padding:5; " textWrap="true"></Label>
+        </GridLayout>
+</side-drawer-page>

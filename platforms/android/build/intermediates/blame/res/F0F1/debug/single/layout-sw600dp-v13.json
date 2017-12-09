@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/julien/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/julien/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/res/merged/F0F1/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

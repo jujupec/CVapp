@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-25.3.1_03a3634035c0318806304d307f5d3b11ac15b010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-25.3.1_d36b866c27d50890d3f323011f8cd39b4488b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-25.3.1_82a638b80cdfbf7f9122063dc369f92d4aefa0da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-25.3.1_1750dc5f2df97dbb524a9b290ee151effe7c60a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-25.3.1_0aa64961c8049f3f044bd4e7dc86a8c432fe172b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/Common-2017.1.504-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="35d17e8af8b765ad6db33ed0dad10fd3945aec35">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Common-2017.1.504-dev-release_628ad3bb3ef681926564c44cc7a6b658122a1b1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-25.3.1_d33aca2addc3407ff00e34373f6f6c067aa02033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-25.3.1_3943e1775d0e03d849db07a8dea485a58719e5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-nativescript-optimized_9c85171ed8953e2d1299061b2078836c14cbb56a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.504-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8370f7dca6cdb1c2b3407855a4c6d481ddd7b0d6">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Primitives-2017.1.504-dev-release_5061c95fede955165729212b867e5e3ee2f82ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/List-2017.1.504-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="68e4f95c7b18e9879ebfb526a9545ed960ef3190">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-List-2017.1.504-dev-release_c8058e41332c4b866ad5de8e2f05c319edeef194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-25.3.1_6d5e6beec2cb72e4b8036c9de6d19ad4e3bbc023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-25.3.1_017838c66abff9b67cbafca2184a2c383768a483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-25.3.1_3addcee3436d945e5db3c3ada2dab0a52574ae4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_40c89a3b15d4ac8727a1c1d95987e0ca004076ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-25.3.1_058a9bd5482b37c3fbae2231ef7a82b64afab930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-25.3.1_0559f9f84c22e018f811073820cfb7bab0510afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/Data-2017.1.504-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b641bfe74a612df8e72181362ec895f8f56f73e">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Data-2017.1.504-dev-release_fa34c6a459778a01aa96fce28d40fb614484fd7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/julien/Desktop/CVapp/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-25.3.1_cf025accb8d7119c97f2bca252d7b4de9fa2e413.jar" />
+    </item>
+
+</items>
