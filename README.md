@@ -108,6 +108,7 @@ brew install xcproj
 
 ###### Install JDK 8.
 Go to Java SE Downloads and click Download for JDK.   http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 In the Java SE Development Kit section, accept the license agreement and click the download link for macOS.
 Wait for the download to complete and install the JDK.
 
@@ -120,10 +121,12 @@ In the terminal, run the following commands:
 brew cask install android-sdk
 
 Next, run the following command to set the ANDROID_HOME system environment variable:
+
 export ANDROID_HOME=/usr/local/share/android-sdk
 
 NOTE: This is the directory that contains the tools and platform-tools directories.
 In addition, install all packages for the Android SDK Platform 25, Android SDK Build-Tools 25.0.2 or later, Android Support Repository, Google Repository and any other SDKs that you may need. You can alternatively use the following command, which will install all required packages.
+
 $ANDROID_HOME/tools/bin/sdkmanager "tools" "platform-tools" "platforms;android-25" "build-tools;25.0.2" "extras;android;m2repository" "extras;google;m2repository"
 
 ###### Setup Android Emulators (AVD)
@@ -150,14 +153,14 @@ cd $ANDROID_HOME/tools
 
 emulator -list-avds (in order to know the names of your emulators)
 
-emulator -avd <emulator-name>
+emulator -avd (emulator-name)
 
 ### windows
 cd %ANDROID_HOME%/tools
 
 emulator -list-avds (in order to know the names of your emulators)
 
-emulator -avd <emulator-name>
+emulator -avd (emulator-name)
 
 
 NOTE: for ios, the emulator is  automatically launched when you run the project.
@@ -170,7 +173,9 @@ NOTE: for ios, the emulator is  automatically launched when you run the project.
 
 ### Install dependancies
 Use these commands in your terminal:
-cd <path>/CVapp
+
+cd (path)/CVapp
+
 npm install
 
 ### run the app on an Android emulator
